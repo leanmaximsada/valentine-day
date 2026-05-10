@@ -107,7 +107,7 @@ export default function Countdown() {
           Time Until Our Date
         </h2>
         <p className="text-sm sm:text-base text-[#ff6b9d]">
-          Here is the countdown to our next anniversary on March 01, 2026! as 1 year, 3 months. 
+          Here is the countdown to our anniversary. 
         </p>
       </motion.div>
 

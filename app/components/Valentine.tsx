@@ -11,7 +11,7 @@ interface Heart {
   rotation: number;
 }
 
-const FULL_TEXT = "Will you be my Valentine and go on a date with me Oun Vicha?";
+const FULL_TEXT = "Will you be my Valentine and go on a date with me?";
 const PICKUP_TIME = "7:00 PM";
 const SUCCESS_TEXT = `It's a Date! ❤️ I'll pick you up at ${PICKUP_TIME}.`;
 

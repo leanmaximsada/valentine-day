@@ -10,7 +10,7 @@ const pressStart2P = Press_Start_2P({
 
 export const metadata: Metadata = {
   title: "Ask for Valentine Date!",
-  description: "Will you be my Valentine, Vicha?",
+  description: "Will you be my Valentine",
   icons: {
     icon: "/her1.png",
     shortcut: "/her1.png",
